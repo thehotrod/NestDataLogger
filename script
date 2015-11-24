@@ -1,6 +1,7 @@
 //Modified from here: https://t.co/LQpRx2GWHA - to add different weather fields and modified from Hogan version (https://gist.github.com/ChrisCarto/16cf299be11a30b53f3e).
  
  //Update your Nest credentials here. Replace with your email address and nest password but keep quotes.
+ //Add your CityID and AppID to line 62
 var nestUsername = "email@address.com",
     nestPassword = "password",
   
