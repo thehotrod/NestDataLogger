@@ -4,6 +4,8 @@
  //Add your CityID and AppID to line 62
 var nestUsername = "email@address.com",
     nestPassword = "password",
+        latitude = 11.11111,
+    longitude = -11.111111;
   
  
 function performLogin(email, password) {
